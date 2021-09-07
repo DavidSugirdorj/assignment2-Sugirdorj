@@ -25,3 +25,16 @@ I went there practically on **every celebratory** event that happened to me.
 ***
 
 ![link-to-aboutme](AboutMe.md)
+
+***
+
+### Foods and Drinks to recommend
+
+| Food/Drink | Location | AmountOfMoney |
+| :--- | :---| :---|
+| Mongolian BBQ | Khaan Nomads Restaurant, Mongolia | 10-20$ |
+| Fried Rice | Red Snapper, Kansas City | 10-20$ |
+| Dr.Pepper canned | Any grocery store | at most 10$ buy packs|
+| Fried Dumplings | Happy Garden, Maryville | 6$ |
+
+***
