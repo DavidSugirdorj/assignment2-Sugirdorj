@@ -23,3 +23,5 @@ I went there practically on **every celebratory** event that happened to me.
 * >>>> Friends (if have some TT) the more the merrier (or even a girlfriend UmU)
 
 ***
+
+![link-to-aboutme](AboutMe.md)
