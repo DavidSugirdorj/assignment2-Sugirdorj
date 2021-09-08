@@ -54,7 +54,7 @@ I went there practically on **every celebratory** event that happened to me.
 ### Algorithm
 
 > Given a tree (represented as graph, not as a rooted tree) with n labeled nodes with labels from 1 to n, a Prufer code uniquely idetifies the tree. The sequence has n-2 values.
-> <https://www.geeksforgeeks.org/prufer-code-tree-creation/> 
+>> <https://www.geeksforgeeks.org/prufer-code-tree-creation/> 
 
 '''
 vector<vector<int>> adj;
