@@ -45,6 +45,7 @@ I went there practically on **every celebratory** event that happened to me.
 
 > If anything can go wrong, it will. 
 >> (murphy's law) *Edward Aloysius Murphy Jr.*
+
 > If I don't have to do it, I won't. If I have to do it, I'll make it quick. 
 >> (from Hyouka) *Oreki Houtarou*
 
