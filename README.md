@@ -91,7 +91,5 @@ vector<int> pruefer_code() {
     return code;
 }
 
-'''
-
 <https://cp-algorithms.com/graph/pruefer_code.html>
 
