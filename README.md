@@ -57,7 +57,6 @@ I went there practically on **every celebratory** event that happened to me.
 > <https://www.geeksforgeeks.org/prufer-code-tree-creation/> 
 
 '''
-
 vector<vector<int>> adj;
 
 vector<int> pruefer_code() {
@@ -90,6 +89,7 @@ vector<int> pruefer_code() {
 
     return code;
 }
+
 
 <https://cp-algorithms.com/graph/pruefer_code.html>
 
