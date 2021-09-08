@@ -87,8 +87,10 @@ vector<int> pruefer_code() {
             leafs.insert(v);
     }
 
-    return code;}
+    return code;
+}
 
+```
 
 <https://cp-algorithms.com/graph/pruefer_code.html>
 
